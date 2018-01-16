@@ -1,0 +1,7 @@
+C:\Users\Kobatal\source\repos\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\Kobatal\source\repos\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\Kobatal\source\repos\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\Kobatal\source\repos\Homework\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+C:\Users\Kobatal\source\repos\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Kobatal\source\repos\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\Kobatal\source\repos\Homework\Homework\obj\Debug\Homework.pdb
