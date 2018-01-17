@@ -1,0 +1,15 @@
+C:\Users\Kobatal\source\repos\Homework\surface\obj\Debug\surface.csprojResolveAssemblyReference.cache
+C:\Users\Kobatal\source\repos\Homework\surface\obj\Debug\MainWindow.g.cs
+C:\Users\Kobatal\source\repos\Homework\surface\obj\Debug\App.g.cs
+C:\Users\Kobatal\source\repos\Homework\surface\obj\Debug\surface_MarkupCompile.cache
+C:\Users\Kobatal\source\repos\Homework\surface\obj\Debug\surface_MarkupCompile.lref
+C:\Users\Kobatal\source\repos\Homework\surface\bin\Debug\surface.exe.config
+C:\Users\Kobatal\source\repos\Homework\surface\bin\Debug\surface.exe
+C:\Users\Kobatal\source\repos\Homework\surface\bin\Debug\surface.pdb
+C:\Users\Kobatal\source\repos\Homework\surface\obj\Debug\MainWindow.baml
+C:\Users\Kobatal\source\repos\Homework\surface\obj\Debug\surface.g.resources
+C:\Users\Kobatal\source\repos\Homework\surface\obj\Debug\surface.Properties.Resources.resources
+C:\Users\Kobatal\source\repos\Homework\surface\obj\Debug\surface.csproj.GenerateResource.Cache
+C:\Users\Kobatal\source\repos\Homework\surface\obj\Debug\surface.csproj.CoreCompileInputs.cache
+C:\Users\Kobatal\source\repos\Homework\surface\obj\Debug\surface.exe
+C:\Users\Kobatal\source\repos\Homework\surface\obj\Debug\surface.pdb
